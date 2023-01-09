@@ -1,0 +1,6 @@
+name: Riad
+version: '${project.version}'
+main: enjoy.raid.Raid
+api-version: 1.19.3
+authors: [ CJHM ]
+description: 袭击检测与报告插件
